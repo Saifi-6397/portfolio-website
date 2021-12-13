@@ -42,10 +42,10 @@ html {
 body,
 html {
   width: 100%;
-  scroll-behavior: smooth;
   overflow-x: hidden;
   background-color: #1f2029;
   background: #111;
+  scroll-behavior: smooth;
 }
 
 .flex-box {
