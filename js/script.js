@@ -9,7 +9,9 @@ $(function() {
     });
 })
 
-
+function border() {
+    document.getElementById("nav-icon").style.border = "2px solid #f9ca24"
+}
 
 //start form validation
 var user_name = document.getElementById("userName");

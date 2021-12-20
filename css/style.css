@@ -154,8 +154,8 @@ header .nav-icon {
   text-align: center;
   border-radius: 0.3rem;
   font-size: 1.5rem;
-  padding: 0.9rem;
-  background-color: rgba(78, 76, 76, 0.384);
+  padding: 0.6rem;
+  background-color: rgba(145, 139, 139, 0.384);
   display: none;
   border: none;
 }
@@ -246,6 +246,7 @@ header .nav-icon {
 .contact {
   padding: 2rem 0;
   margin-top: 7rem;
+  padding-bottom: 0;
 }
 
 .contact h1 {
@@ -315,6 +316,12 @@ header .nav-icon {
   background-color: #f9ca24;
 }
 
+footer .copyright {
+  text-align: center;
+  padding: 2rem 0;
+  font-size: 1.1rem;
+}
+
 .error {
   color: red;
   font-size: 1.1rem;
@@ -336,7 +343,7 @@ header .nav-icon {
     display: none;
     width: 100%;
     margin-top: 7rem;
-    background-color: rgba(102, 97, 97, 0.726);
+    background-color: rgba(102, 97, 97, 0.836);
   }
   header .right-container {
     width: 100%;
